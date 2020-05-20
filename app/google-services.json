@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121258858729",
+    "firebase_url": "https://metro-9174f.firebaseio.com",
+    "project_id": "metro-9174f",
+    "storage_bucket": "metro-9174f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121258858729:android:4c9ffbc5b1071245d5b878",
+        "android_client_info": {
+          "package_name": "peru.metro.metro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121258858729-cc7j219tp5pca8dg7lit4r6017j9gt7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "peru.metro.metro",
+            "certificate_hash": "f6b8df01bab0b236b5e5298ad3de9df0b2e93a6b"
+          }
+        },
+        {
+          "client_id": "121258858729-2q8jetpf0k985bfob9rdsfgeie5m3ad5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDckBM1RINCwb1lie9dJ_CKirsRABO7VnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121258858729-2q8jetpf0k985bfob9rdsfgeie5m3ad5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        <!---android:background="#0F0F0F" color negro-->
+
+
+        <ImageView
+            android:layout_width="315dp"
+            android:layout_height="110dp"
+            android:layout_marginBottom="70dp"
+            android:background="@drawable/linea1"
+            android:padding="10dp" />
+
+        <Button
+            android:id="@+id/iniciar_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/btn_facebook"
+            android:elevation="5dp"
+            android:text="Iniciar"
+            android:textColor="#AEAEB3"
+            android:textSize="16dp" />
+
+    </LinearLayout>
+
+</RelativeLayout>
